@@ -3,5 +3,5 @@ while x < 10
 puts "# {number} SECOND(S)!"
 x += 10
 
-def countdown_with_sleep
+def countdown
 end
